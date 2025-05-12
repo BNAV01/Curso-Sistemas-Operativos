@@ -1,0 +1,8 @@
+=== PUNTUACIONES FINALES ===
+Crupier: 1 puntos
+Bot1: 1 puntos
+Bot2: 2 puntos
+Bot3: 1 puntos
+Bot4: 1 puntos
+
+Ganador(es): Bot2 
